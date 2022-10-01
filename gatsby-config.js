@@ -10,7 +10,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.js
-    siteTitle: `Jodie`,
+    siteTitle: `MrsCharleyyRose`,
     siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
     siteHeadline: `Jodie - Gatsby Theme from @lekoarts`,
     siteUrl: `https://jodie.lekoarts.de`,
