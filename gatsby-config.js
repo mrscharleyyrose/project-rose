@@ -11,8 +11,8 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.js
     siteTitle: `MrsCharleyyRose`,
-    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
-    siteHeadline: `Jodie - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `MrsCharleyyRose - Exclusive Content`,
+    siteHeadline: `MrsCharleyyRose - Exclusive Content`,
     siteUrl: `https://jodie.lekoarts.de`,
     siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
     siteImage: `/banner.jpg`,
